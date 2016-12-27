@@ -13,4 +13,12 @@
         android:layout_gravity="center_horizontal"
         android:layout_centerInParent="true" />
 
+    <Button
+        android:id="@+id/vk_login"
+        android:layout_below="@+id/login_button"
+        android:layout_centerHorizontal="true"
+        android:text="VK login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
 </RelativeLayout>
